@@ -1,2 +1,2 @@
 # fly-hash-preprocess
-materials for fly hash preprocess with a demonstration
+materials for fly hash preprocess to reproduce results in paper
