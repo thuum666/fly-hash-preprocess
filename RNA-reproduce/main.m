@@ -1,5 +1,5 @@
 clear;clc;close all;
-name='4_Zeisel'; % choose different input dataset
+name='Test5_Zeisel'; % choose different input dataset
 mkdir(['result/',name]);
 load(['data/',name,'.mat']);
 in_X=full(in_X);
