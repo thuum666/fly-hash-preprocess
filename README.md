@@ -14,4 +14,10 @@ materials for fly hash preprocess to reproduce results in paper
   3. for reproduction of different datasets, change the input "name" with names in "data" folder
 
 ## CyTOF reproduce
-
+  1. set "cytof-reproduce" folder as the working folder
+  2. run main.m
+  3. for reproduction of different datasets, change the input "resname" with names in "sampledata" folder
+  4. sampled data are provided here for reproduction. To get the raw and complete datasets, see "source data" folder. 
+  
+## Correspondence and bug report
+  please contact yztanzy@gmail.com
