@@ -20,3 +20,5 @@
   Demo for cytof is not provided because fly-hash's improvement of cytof dataset emerges when the sample size is large, which will cost quite a long time and not suitable as a demo. The cytof datasets and scripts are provided in the reproducation part.
 # Instructions for reproduction
   see "reproduction" branch.
+# Correspondence and bug report
+  please contact yztanzy@gmail.com
