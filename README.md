@@ -1,4 +1,4 @@
-# Fly-hash-preprocess
+# Fly-hash-preprocess reproduction
 materials for fly hash preprocess to reproduce results in paper
 ## MNIST reproduce
   1. set "MNIST-reproduce" folder as the working folder
@@ -19,5 +19,5 @@ materials for fly hash preprocess to reproduce results in paper
   3. for reproduction of different datasets, change the input "resname" with names in "sampledata" folder
   4. sampled data are provided here for reproduction. To get the raw and complete datasets, see "source data" folder. 
   
-## Correspondence and bug report
+# Correspondence and bug report
   please contact yztanzy@gmail.com
