@@ -7,6 +7,7 @@
 # Installation guide
   Just put the code and data together under your Matlab workspace. 
 # Instructions for demo
+  The "fly hash" method is written according to Dasgupta's work (10.1126/science.aam9868)
   ## MNIST
     1. Put the MNIST-demo folder under the workspace
     2. The default parameters are optimized already
